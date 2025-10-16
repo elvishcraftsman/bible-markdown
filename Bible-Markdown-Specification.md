@@ -27,7 +27,7 @@ Description: A Public Domain modern Bible translation.
 
 For the name of a book of the Bible, use an H1 heading, with the abbreviation of the book in parentheses. Preferably use the standard three-letter abbreviation. Example:
 
-```# Genesis (GEN)```
+    # Genesis (GEN)
 
 The Bible Markdown reading app should display the name of the book, not the part in parentheses.
 
@@ -35,8 +35,8 @@ The Bible Markdown reading app should display the name of the book, not the part
 
 For chapter numbers, use a number followed by a colon, followed by either a space or another number that's followed by a space. Examples:
 
-```1: In the beginning was the Word.
-1:1 In the beginning was the Word.```
+    1: In the beginning was the Word.
+    1:1 In the beginning was the Word.
 
 Do not use the chapter number in front of each verse. That will make the text harder to read. Instead, use verse numbers as described in the next section.
 
@@ -50,9 +50,9 @@ The Bible Markdown reading app can choose how chapter numbers are displayed, and
 
 For verse numbers, use a number separated by spaces. You can also use two hyphenated numbers, if you're labeling a span.
 
-`14 “You are the light of the world. A city located on a hill can’t be hidden. 15 Neither do you light a lamp and put it under a measuring basket, but on a stand; and it shines to all who are in the house. 16 Even so, let your light shine before men, that they may see your good works and glorify your Father who is in heaven.`
+    14 “You are the light of the world. A city located on a hill can’t be hidden. 15 Neither do you light a lamp and put it under a measuring basket, but on a stand; and it shines to all who are in the house. 16 Even so, let your light shine before men, that they may see your good works and glorify your Father who is in heaven.
 
-`14 “You are the light of the world. A city located on a hill can’t be hidden. 15-16 Neither do you light a lamp and put it under a measuring basket, but on a stand; and it shines to all who are in the house. Even so, let your light shine before men, that they may see your good works and glorify your Father who is in heaven.`
+    14 “You are the light of the world. A city located on a hill can’t be hidden. 15-16 Neither do you light a lamp and put it under a measuring basket, but on a stand; and it shines to all who are in the house. Even so, let your light shine before men, that they may see your good works and glorify your Father who is in heaven.
 
 The Bible Markdown reading app can choose how to display verse numbers or whether to show them at all.
 
