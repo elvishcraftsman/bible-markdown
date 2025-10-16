@@ -27,7 +27,7 @@ Description: A Public Domain modern Bible translation.
 
 For the name of a book of the Bible, use an H1 heading, with the abbreviation of the book in parentheses. Preferably use the standard three-letter abbreviation. Example:
 
-`\# Genesis (GEN)`
+```# Genesis (GEN)```
 
 The Bible Markdown reading app should display the name of the book, not the part in parentheses.
 
