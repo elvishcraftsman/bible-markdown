@@ -58,7 +58,7 @@ The Bible Markdown reading app can choose how to display verse numbers or whethe
 
 ### Numbers that aren't verse numbers
 
-If the text contains a number, usually the number will be written out ("fifty"). However, where it needs to be written in numerals ("483"), it should be followed by a backslash: `483\\`. The Bible Markdown reading app should remove the backslash.
+If the text contains a number, usually the number will be written out ("fifty"). However, where it needs to be written in numerals ("483"), it should be followed by a backslash: `483\`. The Bible Markdown reading app should remove the backslash.
 
 ### Line Breaks
 
@@ -70,7 +70,7 @@ The Bible Markdown reading app can choose whether to honor the paragraph breaks,
 
 Some Bible translations use separate formatting for words that aren't contained in the original text, but are added for flow or clarity. Place square brackets around the added word or phrase:
 
-`to all [those] who are in Rome in [the] love of God, appointed saints---[may] favor [be] with you and peace from God our Father and [the] Lord Jesus Christ.`
+   to all [those] who are in Rome in [the] love of God, appointed saints---[may] favor [be] with you and peace from God our Father and [the] Lord Jesus Christ.
 
 The Bible Markdown reading app can choose whether and how to format this.
 
@@ -78,12 +78,12 @@ The Bible Markdown reading app can choose whether and how to format this.
 
 For footnotes, put curly brackets around the word or phrase that is being expanded on. Make sure that the closing curly bracket is where you want the footnote number/letter to be placed.
 
-`1:1 The beginning of the gospel of Jesus {Christ,} the Son of God, 2 as it is written in {the prophets:}`
+   1:1 The beginning of the gospel of Jesus {Christ,} the Son of God, 2 as it is written in {the prophets:}
 
 The footnote itself should be found below the footnoted text, maybe at the end of the paragraph or chapter. It should be formatted like the following. Note that the text in curly brackets in the footnote must exactly match the footnoted text.
 
-`{Christ,}: or "the anointed one"`
-`{the prophets:}: some manuscripts "Isaiah the prophet"`
+   {Christ,}: or "the anointed one"
+   {the prophets:}: some manuscripts "Isaiah the prophet"
 
 The Bible Markdown reading app should
 1. Remove the curly brackets from the footnoted text.
@@ -96,16 +96,16 @@ Here's an example of good formatting:
 
 > The beginning of the gospel of Jesus Christ,<sup>[a]</sup> the Son of God, <sup>2</sup>&nbsp;as it is written in the prophets:<sup>[b]</sup>
 > -----
-> [a] "Christ": or "the anointed one"`
-> [b] "the prophets": some manuscripts "Isaiah the prophet"`
+> [a] "Christ": or "the anointed one"
+> [b] "the prophets": some manuscripts "Isaiah the prophet"
 
 ### Poetry
 
 For poetry, use a forward slash, followed by a space at the very start of each line:
 
-/ Blessed is the man who doesn’t walk in the counsel of the wicked,
-/   nor stand on the path of sinners,
-/   nor sit in the seat of scoffers;
+   / Blessed is the man who doesn’t walk in the counsel of the wicked,
+   /   nor stand on the path of sinners,
+   /   nor sit in the seat of scoffers;
 
 The Bible Markdown reading app should can format this as it chooses. If it uses poetry formatting, it should honor the white spaces between the forward slash and the text, like this:
 
