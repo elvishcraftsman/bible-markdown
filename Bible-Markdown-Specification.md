@@ -95,8 +95,10 @@ The Bible Markdown reading app should
 Here's an example of good formatting:
 
 > The beginning of the gospel of Jesus Christ,<sup>[a]</sup> the Son of God, <sup>2</sup>&nbsp;as it is written in the prophets:<sup>[b]</sup>
+>
 > -----
 > [a] "Christ": or "the anointed one"
+> 
 > [b] "the prophets": some manuscripts "Isaiah the prophet"
 
 ### Poetry
