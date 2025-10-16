@@ -54,7 +54,9 @@ For verse numbers, use a number separated by spaces. You can also use two hyphen
 
     14 “You are the light of the world. A city located on a hill can’t be hidden. 15-16 Neither do you light a lamp and put it under a measuring basket, but on a stand; and it shines to all who are in the house. Even so, let your light shine before men, that they may see your good works and glorify your Father who is in heaven.
 
-The Bible Markdown reading app can choose how to display verse numbers or whether to show them at all.
+The Bible Markdown reading app can choose how to display verse numbers or whether to show them at all. Here is one option:
+
+> <sup>14</sup> “You are the light of the world. A city located on a hill can’t be hidden. <sup>15</sup> Neither do you light a lamp and put it under a measuring basket, but on a stand; and it shines to all who are in the house. <sup>16</sup> Even so, let your light shine before men, that they may see your good works and glorify your Father who is in heaven.
 
 ### Numbers that aren't verse numbers
 
@@ -112,5 +114,5 @@ For poetry, use a forward slash, followed by a space at the very start of each l
 The Bible Markdown reading app should can format this as it chooses. If it uses poetry formatting, it should honor the white spaces between the forward slash and the text, like this:
 
 > Blessed is the man who doesn’t walk in the counsel of the wicked,<br/>
-> &nbsp;nor stand on the path of sinners,<br/>
-> nor sit in the seat of scoffers;<br/>
+> &nbsp;&nbsp;nor stand on the path of sinners,<br/>
+> &nbsp;&nbsp;nor sit in the seat of scoffers;<br/>
