@@ -111,6 +111,6 @@ For poetry, use a forward slash, followed by a space at the very start of each l
 
 The Bible Markdown reading app should can format this as it chooses. If it uses poetry formatting, it should honor the white spaces between the forward slash and the text, like this:
 
-> Blessed is the man who doesn’t walk in the counsel of the wicked,
-> nor stand on the path of sinners,
-> nor sit in the seat of scoffers;
+> Blessed is the man who doesn’t walk in the counsel of the wicked,<br/>
+> &nbsp;nor stand on the path of sinners,<br/>
+> nor sit in the seat of scoffers;<br/>
