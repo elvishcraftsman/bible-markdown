@@ -35,8 +35,8 @@ The Bible Markdown reading app should display the name of the book, not the part
 
 For chapter numbers, use a number followed by a colon, followed by either a space or another number that's followed by a space. Examples:
 
-`1: In the beginning was the Word.`
-`1:1 In the beginning was the Word.`
+```1: In the beginning was the Word.
+1:1 In the beginning was the Word.```
 
 Do not use the chapter number in front of each verse. That will make the text harder to read. Instead, use verse numbers as described in the next section.
 
