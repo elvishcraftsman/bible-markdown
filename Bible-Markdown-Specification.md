@@ -56,7 +56,7 @@ For verse numbers, use a number separated by spaces. You can also use two hyphen
 
 The Bible Markdown reading app can choose how to display verse numbers or whether to show them at all. Here is one option:
 
-> <sup>14</sup> “You are the light of the world. A city located on a hill can’t be hidden. <sup>15</sup> Neither do you light a lamp and put it under a measuring basket, but on a stand; and it shines to all who are in the house. <sup>16</sup> Even so, let your light shine before men, that they may see your good works and glorify your Father who is in heaven.
+> <sup>14</sup>&nbsp;“You are the light of the world. A city located on a hill can’t be hidden. <sup>15</sup>&nbsp;Neither do you light a lamp and put it under a measuring basket, but on a stand; and it shines to all who are in the house. <sup>16</sup>&nbsp;Even so, let your light shine before men, that they may see your good works and glorify your Father who is in heaven.
 
 ### Numbers that aren't verse numbers
 
