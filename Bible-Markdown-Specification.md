@@ -78,12 +78,12 @@ The Bible Markdown reading app can choose whether and how to format this.
 
 For footnotes, put curly brackets around the word or phrase that is being expanded on. Make sure that the closing curly bracket is where you want the footnote number/letter to be placed.
 
-   1:1 The beginning of the gospel of Jesus {Christ,} the Son of God, 2 as it is written in {the prophets:}
+    1:1 The beginning of the gospel of Jesus {Christ,} the Son of God, 2 as it is written in {the prophets:}
 
 The footnote itself should be found below the footnoted text, maybe at the end of the paragraph or chapter. It should be formatted like the following. Note that the text in curly brackets in the footnote must exactly match the footnoted text.
 
-   {Christ,}: or "the anointed one"
-   {the prophets:}: some manuscripts "Isaiah the prophet"
+    {Christ,}: or "the anointed one"
+    {the prophets:}: some manuscripts "Isaiah the prophet"
 
 The Bible Markdown reading app should
 1. Remove the curly brackets from the footnoted text.
