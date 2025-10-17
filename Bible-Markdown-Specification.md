@@ -60,7 +60,7 @@ The Bible Markdown reading app can choose how to display verse numbers or whethe
 
 ### Numbers that aren't verse numbers
 
-If the text contains a number, usually the number will be written out ("fifty"). However, where it needs to be written in numerals ("483"), it should be followed by a backslash: `483\`. The Bible Markdown reading app should remove the backslash.
+If the text contains a number, usually the number will be written out (&ldquo;fifty&rdquo;). However, where it needs to be written in numerals (&ldquo;483&rdquo;), it should be followed by a backslash: `483\`. The Bible Markdown reading app should remove the backslash.
 
 ### Line Breaks
 
@@ -99,9 +99,9 @@ Here's an example of good formatting:
 > The beginning of the gospel of Jesus Christ,<sup>[a]</sup> the Son of God, <sup>2</sup>&nbsp;as it is written in the prophets:<sup>[b]</sup>
 >
 > -----
-> [a] "Christ": or "the anointed one"
+> [a] &ldquo;Christ&rdquo;: or &ldquo;the anointed one&rdquo;
 > 
-> [b] "the prophets": some manuscripts "Isaiah the prophet"
+> [b] &ldquo;the prophets&rdquo;: some manuscripts &ldquo;Isaiah the prophet&rdquo;
 
 ### Poetry
 
