@@ -14,14 +14,14 @@ Here are the elements that are specific to Bible Markdown. They will be given as
 
 Metadata must be the very first paragraph in the document, it must be separated by single line breaks.
 
-The Bible Markdown reading app should not display the metadata for the reader.
+The Bible Markdown reading app should not display the metadata for the reader. It should be used internally.
 
-Version: World English Bible (WEB)
-Publisher: eBible.org
-Editor: Michael Paul Johnson
-Copyright: Public Domain
-Website: https://worldenglish.bible/
-Description: A Public Domain modern Bible translation.
+    Version: World English Bible (WEB)
+    Publisher: eBible.org
+    Editor: Michael Paul Johnson
+    Copyright: Public Domain
+    Website: https://worldenglish.bible/
+    Description: A Public Domain modern Bible translation.
 
 ### Book names
 
