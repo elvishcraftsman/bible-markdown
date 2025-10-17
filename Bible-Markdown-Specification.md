@@ -72,7 +72,7 @@ The Bible Markdown reading app can choose whether to honor the paragraph breaks,
 
 Some Bible translations use separate formatting for words that aren't contained in the original text, but are added for flow or clarity. Place square brackets around the added word or phrase:
 
-   to all [those] who are in Rome in [the] love of God, appointed saints---[may] favor [be] with you and peace from God our Father and [the] Lord Jesus Christ.
+    to all [those] who are in Rome in [the] love of God, appointed saints---[may] favor [be] with you and peace from God our Father and [the] Lord Jesus Christ.
 
 The Bible Markdown reading app can choose whether and how to format this.
 
@@ -114,5 +114,5 @@ For poetry, use a forward slash, followed by a space at the very start of each l
 The Bible Markdown reading app should can format this as it chooses. If it uses poetry formatting, it should honor the white spaces between the forward slash and the text, like this:
 
 > Blessed is the man who doesn’t walk in the counsel of the wicked,<br/>
-> &nbsp;&nbsp;nor stand on the path of sinners,<br/>
-> &nbsp;&nbsp;nor sit in the seat of scoffers;<br/>
+> &nbsp;&nbsp;&nbsp;nor stand on the path of sinners,<br/>
+> &nbsp;&nbsp;&nbsp;nor sit in the seat of scoffers;<br/>
