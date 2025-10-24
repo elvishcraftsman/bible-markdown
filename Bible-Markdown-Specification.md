@@ -116,3 +116,17 @@ The Bible Markdown reading app should can format this as it chooses. If it uses 
 > Blessed is the man who doesn’t walk in the counsel of the wicked,<br/>
 > &nbsp;&nbsp;&nbsp;nor stand on the path of sinners,<br/>
 > &nbsp;&nbsp;&nbsp;nor sit in the seat of scoffers;<br/>
+
+### Explanatory Text
+
+At the beginning or end of a book, you might want to have an explanatory note about the translation, book, etc. Use three or more `>` characters on lines before and after:
+
+    # Mark (MAR)
+    
+    >>>>>>>>>>
+    The book of Mark is thought to have been drawn from the apostle Peter's reminiscences.
+    >>>>>>>>>>
+
+    1.1 The beginning of the gospel of Jesus Christ, the son of God,
+
+The Bible markdown reading app should format this as it chooses.
