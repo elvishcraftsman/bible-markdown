@@ -130,3 +130,13 @@ At the beginning or end of a book, you might want to have an explanatory note ab
     1.1 The beginning of the gospel of Jesus Christ, the son of God,
 
 The Bible markdown reading app should format this as it chooses.
+
+### Small Caps
+
+For words that start with a normal capital letter, and then use small caps for the rest, as in Lᴏʀᴅ, follow the word with `^`:
+
+    And the Lord^ God said to Abraham,
+
+This should become
+
+> And the <span style="font-variant: small-caps;">Lord</span> God said to Abraham,
