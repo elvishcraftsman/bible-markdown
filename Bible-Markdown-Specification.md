@@ -139,4 +139,4 @@ For words that start with a normal capital letter, and then use small caps for t
 
 This should become
 
-> And the <span style="font-variant: small-caps;">Lord</span> God said to Abraham,
+> And the Lᴏʀᴅ God said to Abraham,
